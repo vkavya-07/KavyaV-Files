@@ -1,0 +1,29 @@
+Hi, my name is kavya vishwakumar, 
+
+I bring over 13 years of experience in software verification and validation, primarily in the healthcare industry, throughout my career, as a QA profile
+I completed my masters in 2012, i joined Philips for internship. since than till now i am associated with Philips. Philips is my first company.
+
+Roles and responsibilities:
+
+Currently i work as QA Lead profile.
+I manage a team of 11 people which includes QA associates, SME's.
+I am responsible to ensure the quality, defining the roadmap for verification and validation, designing the test strategy, implementing risk-based testing approaches like FMEA, 
+         collaborating with cross-functional teams, aligning with business objectives, maintaining release deliverables and release timelines.
+I’ve led multiple end-to-end verification cycles, focusing on functional, regression, load testing, performance testing etc.
+I am working in Agile methodology and V-model life cycles, and have hands-on experience with tools TFS, Windchill.
+Apart from the standard verification, validation and lead activities, I am also involved in ensuring that our QA processes strictly adhere to all mandated regulatory standards.
+
+My career started from manual testing, API testing, infrastructure, project lead activities,  and resource management, AWS cloud operations etc.
+
+I’m passionate about quality and process improvement, and I look forward to applying my skills in a challenging and impactful role at your organization.
+
+
+
+AVW project:
+The Advanced Visualization Workspace product.It's a Class 2 medical device
+This is a Enterprise level Radiology Information System.It is intended to View post processing DICOM images from different modalities. 
+It is used for Diagnostic information for the Physicians. It has 2D, 3D viewing, performance measurements.
+It integrates with Modalities and supports multiple users. Each application has distinct uses. Clinical Depth of AVW15 slide supporting various ologies. Any DICOM modality 
+
+
+

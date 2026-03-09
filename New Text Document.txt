@@ -1,0 +1,44 @@
+Clause 2 
+
+Medical device standards:
+
+1. 13485 - Quality Management System.
+2. 14971 - Risk management for medical devices
+3. 15223 - Symbols for Medical device labelling.
+4. 62304 - Software development Life Cycle requirements for medical device.
+
+PDLM document
+
+___________________________________________________________________________________________________
+
+Testing
+
+1. Testing techniques.
+2. Verification plan.
+3. Verification report.
+4. Traceability matrix.
+5. Risk management.
+6. FMEA
+7. Performance, reliability and scalability.
+8. Verification spec.
+9. 
+
+
+__________________________________________________________________________________________________
+
+API testing - Postman
+
+__________________________________________________________________________________________________
+
+System design
+
+__________________________________________________________________________________________________
+
+https://www.youtube.com/watch?v=ZAgdYR1rmEQ&ab_channel=JasonBolstad
+https://yalantis.com/blog/radiology-pacs-software-integration/
+https://radiologykey.com/medical-imaging-informatics/
+https://www.youtube.com/watch?v=CwHUDdpwtUo&ab_channel=PopulationHealth
+
+
+
+
